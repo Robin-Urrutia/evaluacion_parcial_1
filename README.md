@@ -60,7 +60,3 @@ El trabajo realizado consistio en la visualizacion y  manipulacion de una señal
 
 
 
-<!--Referencias-->
-[1]: http://google.com/
-[2]: http://search.yahoo.com/
-[3]: http://search.msn.com/
