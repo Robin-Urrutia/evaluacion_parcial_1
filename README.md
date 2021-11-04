@@ -15,19 +15,19 @@ El trabajo realizado consistio en la visualizacion y  manipulacion de una señal
   + Benjamin Vidal Muñoz, benjamin.vidal@alumnos.uach.cl
    
 ### Contenidos
-* **Carpeta audio_analisis:** Entornos de trabajo.
-+ Contiene el audio en formato .wav que se utilizará
+* **Carpeta audio_analisis:** 
+  + Contiene el audio en formato .wav que se utilizará
 
 * **Archivo Evaluacion_parcial_1_2021:**   
   + Cuadernillo notebook en  formato .ipynb, que contiene la informacion y los codigos necesarios y solicitados.
 
 * **Librerias:** Librerias utilizadas. 
-  + [Librosa](https://librosa.org/doc/latest/index.html)
+  + [Librosa](https://librosa.org/doc/latest/index.html).
   + [Numpy](https://numpy.org/doc/stable/user/index.html).
-  + [soundfile](https://pysoundfile.readthedocs.io/en/latest/).
-  + [SciPy](https://docs.scipy.org/doc/scipy/reference/)
-  + [sklearn](https://www.kite.com/python/docs/sklearn)
-  + [matplotlib](https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.html)
+  + [Soundfile](https://pysoundfile.readthedocs.io/en/latest/).
+  + [SciPy](https://docs.scipy.org/doc/scipy/reference/).
+  + [Sklearn](https://www.kite.com/python/docs/sklearn).
+  + [Matplotlib](https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.html).
  
 
 
