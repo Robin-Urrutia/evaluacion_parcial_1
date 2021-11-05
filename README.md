@@ -30,6 +30,9 @@ El trabajo realizado consistio en la visualizacion y  manipulacion de una señal
   + [Matplotlib](https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.html).
  
 
+### Referencia.
+bibliography: referencias.bib
+csl: estilo.csl
 
 
 
