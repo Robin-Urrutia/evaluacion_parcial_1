@@ -31,7 +31,8 @@ El trabajo realizado consistio en la visualizacion y  manipulacion de una señal
  
 
 ### Referencia.
- +[1](https://www.codecademy.com/articles/normalization) Normalization.
+ * [1](https://www.codecademy.com/articles/normalization) Normalization.
+ * [2](https://github.com/vpobleteacustica/ACUS220-Acustica-Computacional-con-Python) Repositorio del curso.
 
 
 
