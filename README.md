@@ -31,8 +31,7 @@ El trabajo realizado consistio en la visualizacion y  manipulacion de una señal
  
 
 ### Referencia.
-bibliography: referencias.bib
-csl: estilo.csl
+ +[1](https://www.codecademy.com/articles/normalization) Normalization.
 
 
 
