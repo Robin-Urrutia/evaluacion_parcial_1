@@ -16,7 +16,7 @@ El trabajo realizado consistio en la visualizacion y  manipulacion de una señal
    
 ### Contenidos
 * **Carpeta audio_analisis:** 
-  + Contiene el audio en formato .wav que se utilizará
+  + Contiene el audio en formato .wav que se utilizará, este audio corresponde a la introduccion de la serie Breaking Bad.
 
 * **Archivo Evaluacion_parcial_1_2021:**   
   + Cuadernillo notebook en  formato .ipynb, que contiene la informacion y los codigos necesarios y solicitados.
