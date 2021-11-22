@@ -14,9 +14,13 @@
 
 + Buen trabajo realizado. El orden en los codigos y el uso de lenguaje matemático.
 + Cuidado al interpretar ecuaciones matemáticas en lenguaje de programación, la normalizacion RMS posee dentro de la raiz cuadrada el siguiente denominador:
+
+```latex
 \begin{equation}
 \sum_{i=1}^{N}x(i)^2
 \end{equation}
+```
+
 lo que en python, utilizando numpy se traduce de la siguiente manera:
 ```python
 np.sum(sig**2)
